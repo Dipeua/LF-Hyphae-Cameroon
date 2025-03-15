@@ -1,4 +1,4 @@
-Liste des cours a suivre avant de commencer le programme 
+Linux Foundation Cours
 
 - [introduction-to-jenkins-lfs167](https://training.linuxfoundation.org/training/introduction-to-jenkins-lfs167/)
 - [introduction-to-gitops-lfs169](https://training.linuxfoundation.org/training/introduction-to-gitops-lfs169/) 
@@ -15,3 +15,11 @@ Liste des cours a suivre avant de commencer le programme
 - [introduction-to-devops-and-site-reliability-engineering-lfs162](https://training.linuxfoundation.org/training/introduction-to-devops-and-site-reliability-engineering-lfs162/)
 - [introduction-to-backstage-developer-portals-made-easy-lfs142](https://training.linuxfoundation.org/training/introduction-to-backstage-developer-portals-made-easy-lfs142/)
 - [creating-edge-iot-solutions-with-edgex-foundry-lfel1003](https://training.linuxfoundation.org/express-learning/creating-edge-iot-solutions-with-edgex-foundry-lfel1003/)
+
+Meeting 1
+
+- https://enaccess.org/materials/openpaygotoken/
+- https://enaccess.org/the-openpaygo-token-developed-by-solaris-offgrid/
+- https://www.buzzsprout.com/625420/episodes/2181296
+- https://github.com/EnAccess/OpenPAYGO-python
+
