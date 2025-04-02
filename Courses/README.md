@@ -1,0 +1,17 @@
+# Linux Foundation Courses
+
+- [Introduction to Jenkins (LFS167)](https://training.linuxfoundation.org/training/introduction-to-jenkins-lfs167/)
+- [Introduction to GitOps (LFS169)](https://training.linuxfoundation.org/training/introduction-to-gitops-lfs169/)
+- [Interacting with REST and HTTP-based APIs (LFEL2001)](https://training.linuxfoundation.org/express-learning/interacting-with-rest-and-http-based-apis-lfel2001/)
+- [Introduction to AI/ML Toolkits with Kubeflow (LFS147)](https://training.linuxfoundation.org/training/introduction-to-ai-ml-toolkits-with-kubeflow-lfs147/)
+- [Getting Started with OpenTelemetry (LFS148)](https://training.linuxfoundation.org/training/getting-started-with-opentelemetry-lfs148/)
+- [Beginner's Guide to Open Source Software Development](https://training.linuxfoundation.org/training/beginners-guide-open-source-software-development/?_hstc=138353967.f8cbf9f11e74194d2f987dbdb4cde8b2.1712329806251.1739388408427.1739397942563.54&hssc=138353967.7.1739397942563&_hsfp=772420049)
+- [Developing Secure Software (LFD121)](https://training.linuxfoundation.org/training/developing-secure-software-lfd121/?_hstc=138353967.f8cbf9f11e74194d2f987dbdb4cde8b2.1712329806251.1739388408427.1739397942563.54&hssc=138353967.7.1739397942563&_hsfp=772420049)
+- [Open Source Licensing Basics for Software Developers](https://training.linuxfoundation.org/training/open-source-licensing-basics-for-software-developers/?_hstc=138353967.f8cbf9f11e74194d2f987dbdb4cde8b2.1712329806251.1739388408427.1739397942563.54&hssc=138353967.7.1739397942563&_hsfp=772420049)
+- [Introduction to Kubernetes](https://training.linuxfoundation.org/training/introduction-to-kubernetes/)
+- [Introduction to Kubernetes on Edge with K3s (LFS156X)](https://training.linuxfoundation.org/training/introduction-to-kubernetes-on-edge-with-k3s-lfs156x/)
+- [Software Engineering Basics for Embedded Systems (LFD116)](https://training.linuxfoundation.org/training/software-engineering-basics-for-embedded-systems-lfd116/)
+- [Exploring GraphQL: A Query Language for APIs (LFS141)](https://training.linuxfoundation.org/training/exploring-graphql-a-query-language-for-apis-lfs141/)
+- [Introduction to DevOps and Site Reliability Engineering (LFS162)](https://training.linuxfoundation.org/training/introduction-to-devops-and-site-reliability-engineering-lfs162/)
+- [Introduction to Backstage: Developer Portals Made Easy (LFS142)](https://training.linuxfoundation.org/training/introduction-to-backstage-developer-portals-made-easy-lfs142/)
+- [Creating Edge IoT Solutions with EdgeX Foundry (LFEL1003)](https://training.linuxfoundation.org/express-learning/creating-edge-iot-solutions-with-edgex-foundry-lfel1003/)
